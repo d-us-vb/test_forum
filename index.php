@@ -3,7 +3,7 @@
 <html>
 <head>
 <title>Reworked Layout</title>
-<link rel="icon" href="./favicon.ico" type="image/icon" sizes="16x16">
+<link rel="icon" href="./assets/favicon.ico" type="image/icon" sizes="16x16">
 <link rel="stylesheet" href="./css/basic.css" type="text/css">
 </head>
 <body>
@@ -23,7 +23,7 @@
     <a href="###">My Profile</a>
     <a href="###" class="dropdown-last-element ">Log in</a>
 </div>
-<img id="menu-icon" src="./menu.ico" height="20px" width="20px">
+<img id="menu-icon" src="./assets/menu.ico" height="20px" width="20px">
 <div id="content">
 <section id="main">
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae nisi vel quam mattis blandit ut sed urna. Aliquam sit amet egestas enim, nec accumsan tortor. Nullam turpis dolor, congue vel erat at, finibus dapibus nulla. Nulla nec turpis pulvinar neque condimentum malesuada. Ut non turpis sed augue imperdiet aliquam. Duis tortor augue, interdum id congue sit amet, tempor sit amet tellus. Vestibulum vel diam eget quam tincidunt molestie. Morbi ac ipsum dui. Pellentesque in purus rhoncus ipsum malesuada vehicula interdum eget quam. Sed cursus rhoncus sagittis. Curabitur porttitor gravida tellus. Maecenas convallis consequat placerat. In rhoncus accumsan nulla, id venenatis nisl hendrerit sed. <br>
